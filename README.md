@@ -1,2 +1,7 @@
-# working-with-me
-This outlines the how I work
+<p align="center">
+  <img src="./image.png" alt="Working-with-Me" width="50%"/>
+</p>
+
+
+# 🤝 Working With Me
+
